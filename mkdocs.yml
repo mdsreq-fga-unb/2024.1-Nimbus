@@ -1,0 +1,80 @@
+site_name: Nimbus
+repo_url: https://github.com/mdsreq-fga-unb/2024.1-Nimbus
+repo_name: 2024.1-Nimbus
+
+nav:
+  - Home: index.md
+  - História: faccao/faccao.md
+  - Visão Geral do Produto: visao-geral-prod.md
+  - Missão 1:
+    - Fundamentos de ESW: missao-1/fundamentos.md
+  - Missão 2: missao2.md
+  - Missão 3: missao3.md
+  - Missão 4: missao4.md
+  - Backlog do Produto: missao2.md
+  - Sprints:
+    - Sprint 0: sprints/sprint-0.md
+    - Sprint 1: sprints/sprint-1.md
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.prune
+    - navigations.indexes
+    - content.code.copy
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+  nav_style: dark
+  language: pt
+  repo: fontawesome/brands/github
+  logo: img/brasao2.png
+  favicon: img/brasao.ico
+
+  palette:
+    - scheme: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Alternar para modo escuro
+      primary: grey
+      accent: light blue
+
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Alternar para modo claro
+      primary: black
+      accent: light blue
+
+  markdown_extensions:
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+      pygments_lang_class: true
+    - pymdownx.keys
+    - pymdownx.smartsymbols
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.betterem
+    - pymdownx.inlinehilite
+    - admonition
+    - footnotes
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.snippets
+
+extra_css:
+  - stylesheets/extra.css
