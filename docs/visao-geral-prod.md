@@ -34,41 +34,51 @@ Questões Técnicas conectadas ao sistema que será desenvolvido.
 Questões humanas conectadas à equipe que cuidará do desenvolvimento
 Questões de organização conectadas às condições do ambiente que será desenvolvido a aplicação.
 
-#### Questões técnicas:
+### Questões técnicas:
 
-##### Qual o tamanho do software que será desenvolvido?
-Um sistema de pequeno porte.
+**Qual o tamanho do software que será desenvolvido?**
 
-##### Qual modelo de software será desenvolvido?
-Uma aplicação web, de média complexidade e com requisitos não totalmente definidos.
+ - Um sistema de pequeno porte.
 
-##### Qual a vida útil prevista para o software?
-Por hora, vida útil, médio a longo período
+**Qual modelo de software será desenvolvido?**
 
-##### O sistema está sujeito a controle externo?
-Sim, sujeito ao controle dos corretores e o acompanhamento dos clientes dos seguros
+- Uma aplicação web, de média complexidade e com requisitos não totalmente definidos.
 
-#### Questões Humanas:
+**Qual a vida útil prevista para o software?**
 
-##### Qual o nível técnico da equipe responsável pelo desenvolvimento?
-A equipe possui conhecimentos em diversas áreas de desenvolvimento
- 
-##### Como está organizado o time de desenvolvimento?
-A equipe foi dividida em alguns tópicos, porém todos devem participar de todas as partes do projeto.
+- Por hora, vida útil, médio a longo período
 
-##### Quais são as tecnologias disponíveis para apoiar o desenvolvimento do sistema?
+**O sistema está sujeito a controle externo?**
+
+- Sim, sujeito ao controle dos corretores e o acompanhamento dos clientes dos seguros
+
+### Questões Humanas:
+
+**Qual o nível técnico da equipe responsável pelo desenvolvimento?**
+
+- A equipe possui conhecimentos em diversas áreas de desenvolvimento
+
+**Como está organizado o time de desenvolvimento?**
+
+- A equipe foi dividida em alguns tópicos, porém todos devem participar de todas as partes do projeto.
+
+**Quais são as tecnologias disponíveis para apoiar o desenvolvimento do sistema?**
 
 
-#### Questões organizacionais:
+### Questões organizacionais:
 
-##### É importante ter uma especificação e um projeto (design) bem detalhados antes de passar para a implementação — talvez por motivos contratuais?
-Não, algumas partes da aplicação podem ser concluídas sem especificações de design.
+**É importante ter uma especificação e um projeto (design) bem detalhados antes de passar para a implementação — talvez por motivos contratuais?**
 
-##### É realista uma estratégia de entrega incremental, na qual o software é entregue aos clientes ou outros stakeholders e um rápido feedback é obtido?
-Sim. Este método permite resolver problemas locais que podem afetar todo o produto antes da implementação completa do projeto.
+- Não, algumas partes da aplicação podem ser concluídas sem especificações de design.
 
-##### Os representantes do cliente estarão disponíveis e dispostos a participar do time de desenvolvimento?
-Não, os representantes, estarão apenas disponíveis para dar feedbacks, durante o processo, mas não participando do desenvolvimento em si.
+**É realista uma estratégia de entrega incremental, na qual o software é entregue aos clientes ou outros stakeholders e um rápido feedback é obtido?**
 
-##### Existem questões culturais que possam afetar o desenvolvimento do sistema?
-Não, como o time está iniciando, não está vinculada a uma metodologia específica de desenvolvimento.
+- Sim. Este método permite resolver problemas locais que podem afetar todo o produto antes da implementação completa do projeto.
+
+**Os representantes do cliente estarão disponíveis e dispostos a participar do time de desenvolvimento?**
+
+- Não, os representantes, estarão apenas disponíveis para dar feedbacks, durante o processo, mas não participando do desenvolvimento em si.
+
+**Existem questões culturais que possam afetar o desenvolvimento do sistema?**
+
+- Não, como o time está iniciando, não está vinculada a uma metodologia específica de desenvolvimento.

@@ -20,6 +20,9 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  font:
+    text: Ubuntu
+
   features:
     - navigation.tabs
     - navigation.tabs.sticky
