@@ -1,40 +1,40 @@
-## Abordagem de Desenvolvimento: Ágil
+## Processo: SCRUM/XP
+
+Tendo em vista que nosso projeto tem um conjunto de requisitos desconhecido, escolhemos uma abordagem ágil, e o processo escolhido é um misto de XP e SCRUM. A metodologia XP (Extreme Programming) é uma metodologia de desenvolvimento de software que se concentra na criação de software de alta qualidade, de maneira rápida e eficaz. Valoriza a simplicidade no design e na implementação, priorizando soluções simples e diretas. O XP é uma solução para projetos de software que tem requisitos voláteis, por conta de sua abordagem flexível, que permite a adaptação do desenvolvimento às mudanças. O framework de desenvolvimento de projetos SCRUM é uma forma de organizar o projeto em si e o trabalho em equipe, de forma que eles combinam. Detalharemos o raciocínio para a escolha nos tópicos mais abaixo.
+
+​	
+
+
+| Atividade                        | Método(s)                  | Ferramenta(s)     | Entrega                                       |
+|----------------------------------|-------------------------|----------------|-----------------------------------------------|
+| Elicitação e Descoberta          | Brainstorming;<br>Análise de personas;<br>Entrevistas;<br>Histórias e cenários;<br> | Discord;<br>Microsoft Teams;<br> | Lista de Requisitos Funcionais (RFs) e Requisitos Não-Funcionais (RNFs);<br>Lista de Personas;<br> |
+| Análise e consenso  | Prototipação, negociação, brainstorming | Miro, Discord, Microsoft Teams | Lista refinada dos RFs e RNFs      |
+| Declaração e representação | Divisão de requisitos em temas, épicos e user stories; <br> | Issues do Github;<br> | Especificação de Requisitos com temas, épicos e histórias de usuário;<br> |
+| Verificação e Validação | Checklist de verificação e validação; <br>Obtenção de feedback do(s) cliente(s);<br>Obtenção de feedback da equipe;<br>Backlog DEEP;<br>DoR e DoD;<br> | Issues do Github;<br>Discord;<br>Microsoft Teams;<br> | DoR e DoD de cada requisito da sprint;<br>Backlog do Produto no padrão DEEP;<br> |
+| Organização e atualização | Priorização utilizando a técnica MoSCoW;<br> | Issues do Github;<br> | Backlog do produto priorizado;<br> |
+
+
+## Explicação detalhada da escolha do processo
+
+### Abordagem de Desenvolvimento: Ágil
 
 Com base na série de questionamentos propostos por Sommerville (2019), a escolha da abordagem ágil é fundamentada nas características iniciais do projeto. Conforme vistas abaixo:
 
-- Requisitos não definidos na sua totalidade.
+- Requisitos não conhecidos na sua totalidade.
 - Prazo de entrega já definido.
 - Falta de verba inicial.
 - Entrega incremental de funcionalidades em prazos mais curtos.
 
-## Ciclo de vida: Iterativo e Incremental
+### Ciclo de vida: Iterativo e Incremental
 
 Como os requisitos são incertos, provavelmente teremos que voltar em alguns durante o projeto, para assegurar a confiança e segurança para o cliente final. Ademais, não são conhecidas todas as exigências do cliente, portanto é importante a proximidade para consultas e mudanças mais rápidas. A escolha de um ciclo de vida iterativo e incremental proporciona uma maior flexibilidade no desenvolvimento baseado no surgimento ou alteração de requisitos, além do envolvimento com o cliente buscando feedback contínuo.
 
-## Processo: XP
 
-A metodologia ágil XP (Extreme Programming), é uma metodologia de desenvolvimento de software que se concentra na criação de software de alta qualidade, de maneira rápida e eficaz. Valoriza a simplicidade no design e na implementação, priorizando soluções simples e diretas. O XP é uma solução para projetos de software que tem requisitos voláteis, por conta de sua abordagem flexível, que permite a adaptação do desenvolvimento às mudanças. Dentre os valores centrais do Extreme Programming, os principais fatores que guiaram a escolha da metodologia foram:
-
-- Alta adaptabilidade à mudanças nos requisitos.
-- Utilização do Desenvolvimento Orientado a Testes (TDD).
-- Refatoração de código, facilitando a manutenção e melhorando a clareza.
-- Entrega de pequenas versões do sistema ao decorrer das interações.
-
-| Atividade                        | Método                  | Ferramenta     | Entrega                                       |
-|----------------------------------|-------------------------|----------------|-----------------------------------------------|
-| Planejamento da Release          | Padronização do código | Discord        | Documento que define o que será entregue em cada Release |
-| Desenvolvimento de software      | Em pares               | Editor de Texto| Código com a resolução do problema            |
-| Testes de Software               | TDD                    | Editor de Texto| Testes unitários e de integração              |
-| Elicitação e Descoberta          | Entrevistas com o cliente: Brainstorm 	| Gather Town 	| Definição de RFs e RNFs iniciais             |
-| Análise de Requisitos           	|R	eunião com cliente 	|Miro 	       	|R	efinamento dos RFs e RNFs                   |
-
-
-
-## 1.4 - Abordagem de Desenvolvimento do Software
+## Abordagem de Desenvolvimento do Software: framework Sommerville
 
 De base com a abordagem do framework Sommerville, optamos responder as perguntas classificadas em 3 temas. 
 
-Questões Técnicas conectadas ao sistema que será desenvolvido.
+Questões técnicas conectadas ao sistema que será desenvolvido.
 Questões humanas conectadas à equipe que cuidará do desenvolvimento
 Questões de organização conectadas às condições do ambiente que será desenvolvido a aplicação.
 
