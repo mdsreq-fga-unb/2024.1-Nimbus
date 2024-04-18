@@ -28,3 +28,7 @@
 
 1. Fomentar a interação da corretora com seus clientes e angariar dados deles para a tomada de decisões da corretora.
 
+## Tecnologias a serem utilizadas
+
+- Front-end: typescript + react
+- Back-end: java + springboot + postgres
