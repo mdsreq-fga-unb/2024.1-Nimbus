@@ -1,10 +1,3 @@
-<center>
-
-# GoHorse Starbone Legion
-
-
-<center>
-
 # GoHorse Starbone Legion
 
 ![](../img/historia_img/parte1.png)
@@ -16,5 +9,3 @@
 ![](../img/historia_img/dom.png)
 ![](../img/historia_img/alicate.png)
 ![](../img/historia_img/soldador.png)
-</center>
-  
