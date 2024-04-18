@@ -12,6 +12,7 @@ nav:
   - Missão 1:
     - Questionário: missoes/missao1/questionario.md
     - Lições aprendidas: missoes/missao1/licoes-aprendidas.md
+    - Slides Fundamentos de ESW: missoes/missao1/fundamentos.md
 
 theme:
   name: material
