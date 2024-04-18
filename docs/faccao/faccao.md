@@ -1,12 +1,16 @@
+<center>
+
+<img src="/../img/brasao2.png" alt="Brasão" width="200">
+
 # GoHorse Starbone Legion
 
-- Na vastidão da galáxia de Calamum Caerelium, o planeta Ironforge Major era lar da facção de robôs mercenários Starborne Legion.
+Na vastidão da galáxia de Calamum Caerelium, o planeta Ironforge Major era lar da facção de robôs mercenários Starborne Legion.
 
-- O planeta Ironforge Major era movido por um artefato tecnológico chamado Starborne, uma fonte de energia infinita.
+O planeta Ironforge Major era movido por um artefato tecnológico chamado Starborne, uma fonte de energia infinita.
 
-- Após a descoberta do artefato pelo malígno conglomerado de Slitherium, a vida de todos os moradores de Ironforge Major estava ameaçada.
+Após a descoberta do artefato pelo malígno conglomerado de Slitherium, a vida de todos os moradores de Ironforge Major estava ameaçada.
 
-- Cabe aos mercenários da Starborne Legion, em conjunto com o Comando Estelar, deter Slitherium e evitar a devastação de toda a galáxia.
+Cabe aos mercenários da Starborne Legion, em conjunto com o Comando Estelar, deter Slitherium e evitar a devastação de toda a galáxia.
 
 Os mercenários da GoHorse farão de
 tudo para proteger seu planeta. Seja
@@ -124,6 +128,8 @@ Operacional.
 ## O Grande Soldador
 
 Nasceu e cresceu no planeta IronForge Major, desde pequeno era conhecido por ter uma mente brilhante, ambiciosa e inovadora. Sempre lutou contras os grupos armamentistas e exploradores que estavam destruindo seu planeta e o resto da galáxia, até que surgiu um chamado para se juntar aos mercenários da Starborne Legion para deter o malígno conglomerado de Sliterium.
+
+</center>
 
 
 
