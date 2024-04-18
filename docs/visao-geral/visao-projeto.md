@@ -30,5 +30,15 @@
 
 ## Gerenciamento de Riscos
 
+| Risco                                                        | Grau de exposição | Ação de mitigação                                            |
+| ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| Falta de comunicação entre os membros da equipe              | Alto              | Deve ser reforçada a importância da participação nos rituais ágeis; <br>Deve ser reforçada a importância da participação nos meios de comunicação definidos (discord, teams, whatsapp); |
+| Má definição das atividades a serem realizadas               | Alto              | Deve ser reforçado o uso da ferramenta definida para alocação de tarefas (issues do github); |
+| Sobrecarga de trabalho para algum membro de equipe           | Alto              | Realocação de tarefas, buscando equilibrar os trabalhos para os membros |
+| Desistência de disciplina por parte de algum membro da equipe | Desconhecido      | -                                                            |
+| Falta de conhecimento técnico                                | Baixo             | -                                                            |
+
+
+
 ## Critérios de Replanejamento
 
