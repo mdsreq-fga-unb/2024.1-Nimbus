@@ -14,6 +14,8 @@ Tendo em vista que nosso projeto tem um conjunto de requisitos desconhecido, esc
 | Organização e atualização | Priorização utilizando a técnica MoSCoW;<br> | Issues do Github;<br> | Backlog do produto priorizado;<br> |
 
 
+![](../img/process_plan.jpeg)
+
 ## Explicação detalhada da escolha do processo
 
 ### Abordagem de Desenvolvimento: Ágil
