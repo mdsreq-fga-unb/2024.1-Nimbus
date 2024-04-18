@@ -50,3 +50,9 @@
 
 ## Critérios de Replanejamento
 
+| Problema                                            | Solução                                                      |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| Desistência de disciplina por parte de algum membro | Diminuir o escopo;<br>Mudar funções de membros da equipe     |
+| Suspensão do calendário da UNB devido à greve       | Replanejar as datas do projeto;<br>Mudar as funções de cada membro, caso necessário; |
+| Atraso nas entregas                                 | Aumentar a quantidade de tarefas realizadas por cada membro em cada sprint |
+
