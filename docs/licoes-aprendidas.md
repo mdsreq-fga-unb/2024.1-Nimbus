@@ -42,7 +42,7 @@ Questões de organização conectadas às condições do ambiente que será dese
 
 **Qual modelo de software será desenvolvido?**
 
-- Uma aplicação web, de média complexidade e com requisitos não totalmente definidos.
+- Uma aplicação web, de média complexidade e com requisitos pouco conhecidos.
 
 **Qual a vida útil prevista para o software?**
 
@@ -56,14 +56,15 @@ Questões de organização conectadas às condições do ambiente que será dese
 
 **Qual o nível técnico da equipe responsável pelo desenvolvimento?**
 
-- A equipe possui conhecimentos em diversas áreas de desenvolvimento
+- A equipe possui conhecimentos em desenvolvimento web front-end, desenvolvimento de APIs e gerenciamento e modelagem de bancos de dados.
 
 **Como está organizado o time de desenvolvimento?**
 
-- A equipe foi dividida em alguns tópicos, porém todos devem participar de todas as partes do projeto.
+- A equipe foi dividida em front-end e back-end.
 
 **Quais são as tecnologias disponíveis para apoiar o desenvolvimento do sistema?**
 
+- Frameworks de desenvolvimento front-end (no caso, React) e back-end (Java, com o framework Spring).
 
 ### Questões organizacionais:
 
