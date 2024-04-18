@@ -185,11 +185,3 @@
 
 ### GABARITO:
 1)E 2)D 3)C 4)B 5)B 6)D 7)B 8)A 9)B 10)D 11)C 12)C 13)C 14)C 15)D 16)A 17)B 18)C 19)B 20)B 21)B 22)C 23)A 24)A 25)C 26)C 27)D 28)D 29)A 30)B
-
-
-
-## Subtópico 2
-- Nulla facilisi. Duis auctor urna nec mauris vehicula consequat.
-
-## Questionário
-- Morbi vel libero eget nunc accumsan lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tincidunt, mauris quis gravida suscipit, mauris nisi eleifend ex, vel malesuada metus augue id enim. Phasellus lobortis fringilla ex vel viverra.
