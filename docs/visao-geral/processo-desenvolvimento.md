@@ -1,34 +1,30 @@
-## Abordagem de Desenvolvimento: Ágil
+# Visão Geral do Produto
 
-Com base na série de questionamentos propostos por Sommerville (2019), a escolha da abordagem ágil é fundamentada nas características iniciais do projeto. Conforme vistas abaixo:
+## 1.1 - Problema
 
-- Requisitos não definidos na sua totalidade.
-- Prazo de entrega já definido.
-- Falta de verba inicial.
-- Entrega incremental de funcionalidades em prazos mais curtos.
+ Com base na experiência de um Corretor de Seguros, um dos principais problemas enfrentados hoje é a própria gestão da sua empresa. Mesmo com o uso de serviços pagos de gestão, ainda fica aparente a falta de uma plataforma que seja focada no usuário e que tenha alguns serviços que hoje é feito em planilhas, muito propenso a erros humanos, e buscando uma forma de reduzir esses erros e também automatizar tarefas que hoje consome bastante tempo, entendemos que um Software que faça esses serviços é bastante desejado nesse nicho de negócio. Podendo ser cada vez mais abrangente e futuramente ser uma plataforma completa de gestão de Corretoras, Seguradoras, e empresas de todos os nichos e com os mesmos problemas que encontramos agora.
 
-## Ciclo de vida: Iterativo e Incremental
+## 1.2 - Declaração de Posição do Produto
 
-Como os requisitos são incertos, provavelmente teremos que voltar em alguns durante o projeto, para assegurar a confiança e segurança para o cliente final. Ademais, não são conhecidas todas as exigências do cliente, portanto é importante a proximidade para consultas e mudanças mais rápidas. A escolha de um ciclo de vida iterativo e incremental proporciona uma maior flexibilidade no desenvolvimento baseado no surgimento ou alteração de requisitos, além do envolvimento com o cliente buscando feedback contínuo.
+|||
+|------|-----------------------------------|
+| Para | Gestores de corretoras de seguros |
+| Quem | Necessita de um sistema centralizado para gerir a corretora |
+| O Nimbus | É uma aplicação web |
+| Que | Auxilia na gestão da corretora e na interação desta com os clientes |
+| Ao contrário | Agendor |
+| Nosso produto | Além de fornecer ferramentas que promovem a relação cliente-corretora, provê funcionalidades que auxiliam na gestão da corretora como um todo, como o controle das comissões e proteção de documentos de clientes |
 
-## Processo: XP
+## 1.3 - Objetivos do Produto
 
-A metodologia ágil XP (Extreme Programming), é uma metodologia de desenvolvimento de software que se concentra na criação de software de alta qualidade, de maneira rápida e eficaz. Valoriza a simplicidade no design e na implementação, priorizando soluções simples e diretas. O XP é uma solução para projetos de software que tem requisitos voláteis, por conta de sua abordagem flexível, que permite a adaptação do desenvolvimento às mudanças. Dentre os valores centrais do Extreme Programming, os principais fatores que guiaram a escolha da metodologia foram:
+#### Objetivos Principais:
 
-- Alta adaptabilidade à mudanças nos requisitos.
-- Utilização do Desenvolvimento Orientado a Testes (TDD).
-- Refatoração de código, facilitando a manutenção e melhorando a clareza.
-- Entrega de pequenas versões do sistema ao decorrer das interações.
+1. Prover uma forma simplificada de calcular a comissão de cada venda para os corretores  
+2. Prover uma forma de guardar os dados de documentos sensíveis dos clientes;
 
-| Atividade                        | Método                  | Ferramenta     | Entrega                                       |
-|----------------------------------|-------------------------|----------------|-----------------------------------------------|
-| Planejamento da Release          | Padronização do código | Discord        | Documento que define o que será entregue em cada Release |
-| Desenvolvimento de software      | Em pares               | Editor de Texto| Código com a resolução do problema            |
-| Testes de Software               | TDD                    | Editor de Texto| Testes unitários e de integração              |
-| Elicitação e Descoberta          | Entrevistas com o cliente: Brainstorm 	| Gather Town 	| Definição de RFs e RNFs iniciais             |
-| Análise de Requisitos           	|R	eunião com cliente 	|Miro 	       	|R	efinamento dos RFs e RNFs                   |
+#### Objetivos Secundários 
 
-
+1. Fomentar a interação da corretora com seus clientes e angariar dados deles para a tomada de decisões da corretora.
 
 ## 1.4 - Abordagem de Desenvolvimento do Software
 
