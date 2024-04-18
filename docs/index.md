@@ -21,12 +21,3 @@ Nimbus é uma solução de software que permite às corretoras de seguros gerenc
 | Guilherme Coelho Mendonça      | [@guilermanoo](https://github.com/guilermanoo)      |
 | Lucas Henrique Lima de Queiroz | [@lucasqueiroz23](https://github.com/lucasqueiroz23)|
 | Samuel Alves Silva             | [@samuelalvess](https://github.com/samuelalvess)    |
-
-<hr>
-
-# Documentação
-
-
-<hr>
-
-# Extras
