@@ -13,11 +13,19 @@
 
 ## Planejamento das fases e/ou iterações do projeto
 
-| Sprint | Produto (entrega) | Data início | Data Fim |
-| ------ | ----------------- | ----------- | -------- |
-|        |                   |             |          |
-|        |                   |             |          |
-|        |                   |             |          |
+| Sprint | Data de Início | Data de Fim | Entrega |
+|--------|----------------|-------------|-----------|
+| Sprint 1 | 29/04 | 05/05 | Lista inicial de requisitos |
+| Sprint 2 | 06/05 | 12/05 | Lista refinada de requisitos |
+| Sprint 3 | 13/05 | 19/05 | Definição do MVP |
+| Sprint 4 | 20/05 | 26/05 | Primeiro incremento |
+| Sprint 5 | 27/05 | 02/06 | Segundo incremento |
+| Sprint 6 | 03/06 | 09/06 | Terceiro incremento |
+| Sprint 7 | 10/06 | 16/06 | Quarto incremento |
+| Sprint 8 | 17/06 | 23/06 | Quinto incremento |
+| Sprint 9 | 24/06 | 30/06 | Sexto incremento |
+| Sprint 10 | 01/07 | 07/07 | Produto final |
+
 
 ## Matriz de comunicação
 
