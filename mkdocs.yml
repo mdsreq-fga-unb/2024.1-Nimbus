@@ -5,7 +5,10 @@ repo_name: 2024.1-Nimbus
 nav:
   - Home: index.md
   - História: faccao/faccao.md
-  - Visão Geral do Produto: visao-geral-prod.md
+  - Visão Geral do Produto: visao-produto.md
+  - Visão Geral do Projeto: visao-projeto.md
+  - Processo de Desenvolvimento de Software: processo-desenvolvimento.md
+  - Lições aprendidas: licoes-aprendidas.md
   - Missão 1:
     - Fundamentos de ESW: missao-1/fundamentos.md
   - Missão 2: missao2.md
@@ -58,9 +61,6 @@ theme:
   markdown_extensions:
     - pymdownx.arithmatex:
         generic: true
-    - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.highlight:
         anchor_linenums: true
         line_spans: __span
