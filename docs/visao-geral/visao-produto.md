@@ -2,7 +2,7 @@
 
 ## Problema
 
- Com base na experiência de um corretor de seguros, um dos principais problemas enfrentados hoje é a própria gestão da sua empresa. Mesmo com o uso de serviços pagos de gestão, ainda fica aparente a falta de uma plataforma que seja focada no usuário e que tenha alguns serviços que hoje são feitos em planilhas, muito propensos a erros humanos. Buscando uma forma de reduzir esses erros e também automatizar tarefas que hoje consomem muito tempo, entendemos que um software que faça esses serviços é bastante desejado nesse nicho de negócio, podendo ser cada vez mais abrangente e futuramente ser uma plataforma completa de gestão de corretoras, seguradoras, e empresas de todos os nichos e com os mesmos problemas que encontramos agora.
+ O problema enfrentado pelos corretores de seguros no que diz respeito à gestão de clientes é a falta de uma plataforma específica e eficiente para tratar de forma integrada todas as informações relacionadas aos clientes. Atualmente, muitos corretores enfrentam dificuldades para acessar e atualizar rapidamente dados importantes, como políticas atuais, histórico de reclamações, datas de renovação e comunicações.  Isso pode acarretar em falhas de comunicação com atrasos na renovação de contratos e política, bem como acompanhamento insuficiente das necessidades e desejos dos clientes. Essas falhas no gerenciamento de clientes podem afetar negativamente a satisfação do cliente e prejudicar o crescimento do negócio.
 
 ![](../img/ishikawa.png)
 
